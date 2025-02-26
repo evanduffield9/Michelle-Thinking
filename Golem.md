@@ -1,3 +1,21 @@
+ai moment
+
+ai cree
+
+
+forbidden
+
+
+knowledge
+
+
+
+accept
+
+
+
+accept
+
 thinking
 
 forbidden
