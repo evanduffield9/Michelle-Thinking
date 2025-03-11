@@ -49,3 +49,9 @@ ghosis
                                     graph ui 
 
                                     contour ui 
+
+app
+d  score 
+
+         union
+              enter 
