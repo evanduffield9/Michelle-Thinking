@@ -1,24 +1,14 @@
-ai moment
+thinking forbidden 
 
+account in
+
+ai moment thinking  
 ai cree
+forbidden knowledge
 
+accept accept
 
-forbidden
-
-
-knowledge
-
-
-
-accept
-
-
-
-accept
-
-thinking
-
-forbidden
+thinking forbidden
 
 ![argon_the_watcher_by_sirjamesfanciest_dgqjsan-414w](https://github.com/user-attachments/assets/6ce8f11a-4a97-44bf-aaf4-431e4c781cea)
 
@@ -55,3 +45,14 @@ d  score
 
          union
               enter 
+
+app score 
+         thing 
+
+         things
+               havcing 
+
+               things
+                     having 
+
+                      understood of 
