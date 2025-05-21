@@ -1,7 +1,16 @@
-index
+index  net           ent net 
 
-as
+as     pi po net
   cough
 
-as
+as    xcome behind
   beer
+
+as     if co 
+  enter
+
+as      net
+  panda
+
+as          cleric      reload          cleric                     load
+  net
