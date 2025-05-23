@@ -14,3 +14,12 @@ as      net
 
 as          cleric      reload          cleric                     load
   net
+
+cleric
+      reload
+
+thinking
+
+ahead
+
+direction mutate
