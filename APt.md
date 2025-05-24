@@ -5,7 +5,7 @@ th a
 teh ate
 haet 
 ath a
-etha te
+etha te mixture
 ht 
 ht 
 th t
@@ -26,3 +26,11 @@ buildings
                        nix this the oi oia sipg oiasdn asanas
 
                        this image
+
+                       enter paid
+
+                       willing car
+
+                       paid carry
+
+                       thinking tea
