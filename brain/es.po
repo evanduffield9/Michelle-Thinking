@@ -14,3 +14,12 @@ enter
 
 th
   domain
+
+th
+  empty
+
+th
+  suit
+
+th
+  capable
