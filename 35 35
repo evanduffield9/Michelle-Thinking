@@ -1,0 +1,7 @@
+lib
+
+extends/
+        ai*bstr()
+                 --cost
+        manage()
+                 --flix
