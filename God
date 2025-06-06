@@ -1,0 +1,12 @@
+god
+   init 
+
+self
+    as 
+      current
+             power
+
+init
+
+card
+d   ent
