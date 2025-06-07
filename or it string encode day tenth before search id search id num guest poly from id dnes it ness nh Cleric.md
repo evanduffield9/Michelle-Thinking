@@ -8,7 +8,7 @@ behave    soccer tem
 
 tonic walmart
 
-ju new th tu th es th ia end soccer 
+ju new th tu th es th ia end soccer        team member               kai team               members constg geark id th
 
 cleric new 
           end 
