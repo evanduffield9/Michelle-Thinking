@@ -1,6 +1,6 @@
-time
+time 3
 
-next
+next 3
 
 unix
 
@@ -17,7 +17,7 @@ session
 next
     trade
 
-next
+next  3
     if
 
 god
@@ -27,7 +27,7 @@ afford
       next
           car
 
-next
+next  3
     ti
 
 car
@@ -63,3 +63,5 @@ you
 weapon
 
 chill
+
+3
