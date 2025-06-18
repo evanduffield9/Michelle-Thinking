@@ -1,6 +1,12 @@
+load
+
+machine
+
+64bit rom
+
 ahead
 
-rom
+32bit rom
 
 think 7 
 
