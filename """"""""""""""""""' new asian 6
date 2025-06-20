@@ -1,5 +1,9 @@
 load
 
+binary
+
+load
+
 machine
 
 64bit rom
