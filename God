@@ -10,3 +10,19 @@ init
 
 card
 d   ent
+
+self
+    power
+
+as
+  what
+      who
+
+what
+    period
+
+next
+    cycle
+
+next
+    as
