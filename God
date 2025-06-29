@@ -26,3 +26,30 @@ next
 
 next
     as
+
+next
+    period
+
+next
+    cycle
+
+next
+    cpu
+
+next
+    deer
+
+next
+    ant
+
+next
+    female
+
+next
+    god
+
+next
+    guy
+
+next
+    front
