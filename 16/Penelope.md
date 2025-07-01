@@ -29,3 +29,38 @@ gun
 daisy
      contrast
              pedal
+
+fifty
+     size
+         control
+
+also
+    winner
+
+also
+    contrast
+
+also
+    win
+
+also
+    won
+
+also
+    next
+
+shift
+     next
+         quad
+             example
+                    soon
+                        able 
+                             next
+shift
+     topaz
+           xi
+             cii-an tc submit ( submit, submit
+
+submit
+      task
+     
