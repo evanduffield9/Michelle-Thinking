@@ -3,7 +3,7 @@ ocean
 ![triggerfish-feature-pinktail](https://github.com/user-attachments/assets/05d695fa-5b64-45fb-8c93-abcc15f3d540)
 
 
-bi
+bi  ch fold
   at
   
   ![yma5wuk73hm01](https://github.com/user-attachments/assets/83cd0e60-837e-47ad-82f6-292f7426b3ad)
@@ -21,4 +21,11 @@ bi
         epic
             sound
 
-            garage   factual
+            garage   factual issue
+
+            text
+                gpod
+
+                thinking
+
+                hair your face 
